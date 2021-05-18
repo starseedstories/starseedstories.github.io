@@ -1,0 +1,79 @@
+// Header text feature
+.call-out {
+  @extend %padding-regular;
+  display: inline-block;
+  width: 100%;
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 1.2em;
+  text-align: left;
+  color: white;
+}
+
+.border-glow {
+  border: 2px solid #FFE1FF;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
+
+.call-out h2:last-child {
+  padding-top: 20%;
+}
+
+.call-out a {
+  color: $header-desc-link-color
+}
+// Post listing
+.posts {
+
+  background-color: black;
+  
+
+  .post-teaser {
+    @extend %padding-regular;
+    width: 100%;
+    margin-bottom: 0;
+    display: inline-block;
+    background-size: $feature-image-size;
+    border-bottom: 1px solid $border-color;
+    p a {
+      @extend .body-link;
+    }
+  }
+  .excerpt {
+    margin-top: 1em;
+  }
+}
+// Pagination
+.pagination .button {
+  margin: 0 1.5em;
+  i {
+    vertical-align: middle;
+  }
+}
+.pagination {
+  background-color: black;
+  padding: $padding-small $padding-large 0 $padding-large;
+  text-align: center;
+  @media (max-width: 600px) {
+    padding: $padding-small;
+  }
+}
+
+.glow {
+  color: #fff;
+  -webkit-animation: glow 2.5s ease-in-out infinite alternate;
+  -moz-animation: glow 2.5s ease-in-out infinite alternate;
+  animation: glow 2.5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 2px #fff, 0 0 5px #fff, 0 0 10px #e60073, 0 0 15px #e60073, 0 0 20px #e60073, 0 0 25px #e60073, 0 0 30px #e60073;
+  }
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 20px #ff4da6, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6;
+  }
+}

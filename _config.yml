@@ -1,0 +1,67 @@
+# SITE CONFIGURATION
+baseurl: "starseedstories.github.io"
+url: "starseedstories.com"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Starseed Stories
+  avatar: assets/img/starseedstories-logo.svg
+  favicon: assets/starseedstories-logo.svg
+  description: a spiritual blog about expanding your consciousness during the most important time of our lives; now. It is intended to help readers raise their energy by looking inwards for their truth
+  meta_description: A blog  with topics about spirituality, akashic records, interdimensional beings, and new age experiences. Stories from the author having reality shifts through perception changes. 
+
+  # Header and footer text
+  header_text_feature_image: "assets/img/headerimage.jpg"
+  header_text_feature_image2: "assets/img/headerimage2.jpg"
+  footer_text: >
+   Copyright Starseed Stories. All rights reserved. For disclaimer, view the About page.
+
+  # Icons
+  rss: false
+  email_address: "info@starseedstories.com"
+  facebook: 
+  instagram: "starseed.stories"
+  reddit:
+  twitter:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  search: false # Enable the search feature
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next_post: "Next post"
+  str_previous_post: "Previous post"
+  str_next_page: "Next"
+  str_previous_page: "Prev"
+  str_continue_reading: "Continue reading"
+  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_search_no_results: "No results found."
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Orbitron:400,500,600,700,800,900"
+  google_fonts2: "Fire+Sans:400,500,600,700,800,900"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 2
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate]
+exclude:
+  - Gemfile
+  - Gemfile.lock
