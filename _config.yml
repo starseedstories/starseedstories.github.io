@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "starseedstories.github.io"
-url: "starseedstories.com"
+baseurl: "/"
+url: "https://starseedstories.github.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
