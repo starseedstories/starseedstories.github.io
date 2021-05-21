@@ -7,6 +7,7 @@ article,
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
+  background-color: black;
 }
 article {
   background-color: black;
@@ -65,4 +66,8 @@ header {
   .post-content {
     @extend %padding-regular;
   }
+}
+
+iframe {
+  background-color: black;
 }
