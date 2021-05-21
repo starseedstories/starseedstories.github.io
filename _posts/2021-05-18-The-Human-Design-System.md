@@ -22,7 +22,7 @@ One of my favourite parts of the body graph is the in-depth *Gates*, which are t
 
 I was able to complete my free body graph and receive my Design Type at the website here:[MyFreeBodygraph](https://www.mybodygraph.com/). Below is mine for those curious:
 
-![alt text](assets/img/human-design-bodygraph.jpg "Starseed Stories Human Design Chart")
+![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/human-design-bodygraph.jpg "Starseed Stories Human Design Chart")
 
 To give you an example of the Channels, I have my Head and Adjna centers connected to create the channel of awareness seen here:
 
