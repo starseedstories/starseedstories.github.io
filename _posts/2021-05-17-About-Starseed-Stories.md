@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Starseed Stories
-tags: [about]
+tags: [About]
 ---
 
 Starseed stories is written by someone just like you. Starseed stories is a spiritual blog about expanding your consciousness during the most important time of our lives: now. 

@@ -1,12 +1,9 @@
 ---
-layout: about
-title: About
-permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+layout: post
+title: About The Author
+tags: [About]
 ---
 
-
-## About the Author
 
 Exactly one year ago today (July 18th 2020) I was telepathically connected with an interdimensional being. That day, while on a hike with my dog, I began to hear an intense high pitch ringing that sounded like angelic voices singing while I became filled with electrifying energy that seemed to extend 2 meters out of my body. 
 
@@ -22,9 +19,4 @@ In October, some 3 months later, I spiraled down into a lower frequency and bala
 
 If you enjoyed learning about me, I encourage you to check out my full story when it is released.
 
-
-## Disclaimer: 
-
-All content, information, and stories read on Starseedstories.com are based on the Authors opinions and experiences. It is not to be used in any way to make health decisions. The posts are meant to create conversation and motivate readers, but medical decisions should be consulted by a registered professional. I am not a medical professional in any way.
-
-For Mental Health resources and phone numbers in your country visit: [Check Point Global](https://checkpointorg.com/global/)
+![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/Watcher.JPG "Galactic Watcher")
