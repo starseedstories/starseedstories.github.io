@@ -2,6 +2,7 @@
 layout: post
 title: About The Author
 tags: [About]
+feature-img: "assets/img/Watcher.jpg"
 ---
 
 
