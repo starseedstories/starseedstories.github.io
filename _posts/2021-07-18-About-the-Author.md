@@ -19,4 +19,4 @@ In October, some 3 months later, I spiraled down into a lower frequency and bala
 
 If you enjoyed learning about me, I encourage you to check out my full story when it is released.
 
-![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/Watcher.JPG "Galactic Watcher")
+![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/Watcher.jpg "Galactic Watcher")
