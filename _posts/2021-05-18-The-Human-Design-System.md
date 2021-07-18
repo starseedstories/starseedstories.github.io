@@ -26,6 +26,6 @@ I was able to complete my free body graph and receive my Design Type at the webs
 
 To give you an example of the Channels, I have my Head and Adjna centers connected to create the channel of awareness seen here:
 
-![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/thechannelofawareness.png "Starseed Stories Channel of Awareness")
+![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/TheChannelofAwareness.png "Starseed Stories Channel of Awareness")
 
 Could this a helpful tool in awakening and the transformation of human consciousness? Create your design type today and let me know what you think :).
