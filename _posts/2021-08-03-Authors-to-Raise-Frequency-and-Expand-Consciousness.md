@@ -6,7 +6,6 @@ feature-img: "assets/img/the-ra-material.jpeg"
 
 ---
 
-![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/jane-roberts.jpeg "Jane Roberts")
 
 ### 1. Jane Roberts
 
@@ -15,6 +14,9 @@ Jane Roberts was born on May 8th, 1929 and passed away on September 5th, 1984. S
 Seth described himself as an "energy personality essence no longer focused in physical matter," and was independent of Roberts' subconscious. 
 
 The information channelled from Seth was published in summary form as “The Seth Material”, written by Roberts from the recorded channelling sessions. From January 1970, Jane began writing more books through Seth and the series of "Seth books" totalled ten volumes.
+
+![alt text](https://raw.githubusercontent.com/starseedstories/starseedstories.github.io/main/assets/img/jane-roberts.jpeg "Jane Roberts")
+
 
 Notable books:
 
