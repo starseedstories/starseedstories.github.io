@@ -8,7 +8,7 @@ feature-img: "assets/img/sample_feature_img_2.png"
 
 ## About the Author
 
-Exactly one year ago today (July 18th 2020) I was telepathically connected with an interdimensional being. That day, while on a hike with my dog, I began to hear an intense high pitch ringing that sounded like angelic voices singing while I became filled with electrifying energy that seemed to extend 2 meters out of my body. 
+On July 18th 2020, I was telepathically connected with an interdimensional being. That day, while on a hike with my dog, I began to hear an intense high pitch ringing that sounded like angelic voices singing while I became filled with electrifying energy that seemed to extend 2 meters out of my body. 
 
 As everything became relaxed, reality seemed to be “choppy” as if the frames per second my eyes were seeing was greatly lowered. Leaving the forest I quickly understood I was not alone and someone else was listening and responding to my thoughts. I felt pure energetic power that was very loving. This lasted for about 36 hours and during this time I became psychic and any question I had the right to know I was given the answer to. 
 
@@ -18,7 +18,7 @@ I then went through a period of integration that lasted 2-3 weeks. During this t
 
 I went on to have two more experiences, both similar but different from the last. I would also connect with interdimensional entities in pairs of two. They did not care to get into genders, names or specifics like this as they were constraints. Communicating telepathically with words and mind visuals that play out like internet GIFS, they explained they were part of a galactic collective consciousness paying attention to the evolution of our consciousness on earth. 
 
-In October, some 3 months later, I spiraled down into a lower frequency and balanced my energy out. Although that time period had been amazing and I wish I could continue on the path I was on, I still had work to do in the lower dimensions. I knew I wanted to write about my journey very early so I did not forget any details and I feel now is the time. I will continue to break reality and see beyond. 
+In October, some 3 months later, I spiralled  down into a lower frequency and balanced my energy out. Although that time period had been amazing and I wish I could continue on the path I was on, I still had work to do in the lower dimensions. I knew I wanted to write about my journey very early so I did not forget any details and I feel now is the time. I will continue to break reality and see beyond. 
 
 If you enjoyed learning about me, I encourage you to check out my full story when it is released.
 
